@@ -8,10 +8,7 @@
 
 - [Project Overview](#project-overview)
 - [Core Functionalities](#core-functionalities)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -38,4 +35,4 @@ Food safety is crucial to public health. Consumers often encounter safety issues
 
 4. **Data Chat**: 
    Facilitate real-time communication between consumers and authorities regarding ongoing food safety concerns.
-
+   
